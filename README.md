@@ -1,16 +1,22 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=jester0fdeceit&color=red)
 
-<!--
-**jester0fdeceit/jester0fdeceit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="735" height="552" alt="Image" src="https://github.com/user-attachments/assets/94727515-ec48-4714-b4ec-3e90a2d3f7dd" />
