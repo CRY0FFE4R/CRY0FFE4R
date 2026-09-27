@@ -23,4 +23,4 @@ https://jaybirdie.atabook.org/
 
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/38a732c2-2cb0-4b3a-a6ab-679e5de325b3" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/38a732c2-2cb0-4b3a-a6ab-679e5de325b3" />
